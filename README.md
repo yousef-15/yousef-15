@@ -9,7 +9,7 @@
 - 🔭 I'm a passionate **Frontend Developer** focused on crafting clean, responsive UIs
 - 🌱 Always learning and keeping up with the latest frontend trends
 - 💬 Ask me about **HTML, CSS, JavaScript, React, React Native, Tailwind CSS & Bootstrap**
-- 📫 How to reach me: **yws246246@gmail.com**
+- 📫 How to reach me: **yousefwaleed.dev@gmail.com**
 
 <br/>
 
