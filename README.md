@@ -39,8 +39,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousef-15&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousef-15&layout=compact&theme=tokyonight)
 
 <br/>
 
